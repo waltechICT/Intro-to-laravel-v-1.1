@@ -51,7 +51,7 @@
             <div class="col-md-6">
                 <div class="card shadow-sm">
                     <div class="card-body">
-                        <h3 class="card-title mb-4 text-center">Login to Your Account</h3>
+                        <h3 class="card-title mb-4 text-center">Login</h3>
                         <form method="POST" action="{{ route('login') }}">
                             @csrf   
                             <!-- Email Address -->
