@@ -11,8 +11,8 @@
                 <li class="nav-item"><a class="nav-link" href="services">Services</a></li>
                 <li class="nav-item"><a class="nav-link" href="training">Training</a></li>
                 <li class="nav-item"><a class="nav-link" href="contact">Contact</a></li>
-                <li class="nav-item"><a class="nav-link" href="sign-in">sign-in</a></li>
-                <li class="nav-item"><a class="nav-link" href="signup">signup</a></li>                
+                <li class="nav-item"><a class="nav-link" href="login">Login</a></li>
+                <li class="nav-item"><a class="nav-link" href="register">Register</a></li>                
             </ul>
         </div>
     </div>
